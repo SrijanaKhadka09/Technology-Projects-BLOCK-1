@@ -1,6 +1,7 @@
 # Part 2 – Computer Disassembly
 ## Before Opening the Computer
 Describe the computer before opening it.
+
 This compact, matte-black desktop box houses the computer:
 
 It has a fine mesh section for ventilation, a power button near the top, USB ports and 3.5mm audio jacks for rapid accessory connection.
@@ -10,6 +11,15 @@ Side Panel: Solid black metal panel that encloses the internal parts. It is fast
 Rear Connections: The main display cables, power and peripherals are plugged in to the motherboard and power supply I/O ports; these are visible cabling found on the back panel.
 
 images/system/computer-before.jpg
+
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/c0b5948e-dae5-4cd7-adea-84a1a5418f1d" />
+
+
+
+
+
+
+
 
 
 
