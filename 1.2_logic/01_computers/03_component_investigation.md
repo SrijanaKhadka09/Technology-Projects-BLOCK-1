@@ -3,7 +3,17 @@ Photograph and investigate the following components.
 Images should be stored in:
 
 images/components/
-```
+<img width="1985" height="1325" alt="image" src="https://github.com/user-attachments/assets/6f021d2b-c257-49da-853c-e60bccaedc58" />
+ 
+ <img width="1200" height="441" alt="image" src="https://github.com/user-attachments/assets/d1c556b4-8922-43eb-8c95-dc2e22b9ddf2" />
+
+<img width="780" height="438" alt="image" src="https://github.com/user-attachments/assets/80cea2c7-d126-4602-abe4-f33042be6685" />
+                          
+ <img width="725" height="899" alt="image" src="https://github.com/user-attachments/assets/4feeb002-1925-4339-9c8a-1757bac21436" />
+                               
+ <img width="1804" height="1662" alt="image" src="https://github.com/user-attachments/assets/31df0b3d-d8d7-41fc-817b-02732ab2ece1" />
+                                
+ <img width="841" height="839" alt="image" src="https://github.com/user-attachments/assets/f48e206f-73f6-4ea7-9b96-e0f7e89b66ac" />
 
 | Component | Function | Key Specification |
 |----------|----------|------------------|
